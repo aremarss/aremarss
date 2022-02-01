@@ -1,5 +1,11 @@
-### Hi there 👋
+___
+[<img align="left" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>][GitHub]
+[<img align="left" src="https://img.shields.io/badge/habr%20-%230db7ed.svg?&style=for-the-badge&logo=habr&logoColor=white&color=5F9EA0"/>][Career.Habr]
+<br />
+___
 
+[GitHub]: https://github.com/aremarss
+[Career.Habr]: https://career.habr.com/aremars
 <!--
 **aremarss/aremarss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
