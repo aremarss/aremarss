@@ -1,6 +1,6 @@
 ___
 [<img align="left" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>][GitHub]
-[<img align="left" src="https://img.shields.io/badge/habr%20-%230db7ed.svg?&style=for-the-badge&logo=habr&logoColor=white&color=5F9EA0"/>][Career.Habr]
+[<img align="left" src="https://img.shields.io/badge/career.habr%20-%230db7ed.svg?&style=for-the-badge&logo=habr&logoColor=white&color=5F9EA0"/>][Career.Habr]
 <br />
 ___
 
